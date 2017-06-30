@@ -20,9 +20,6 @@ Library/metadata
 Library/previews
 Library/guidmapper
 Temp
-*.csproj
-*.pidb
-*.sln
 
 # Visual Studio 2015 cache directory
 /.vs/
